@@ -32,13 +32,11 @@ PRODUCT_PACKAGES += \
     DefaultContainerService \
     DownloadProvider \
     DownloadProviderUi \
-    Email \
     HTMLViewer \
     Home \
     KeyChain \
     MediaProvider \
     PackageInstaller \
-    PhotoTable \
     PicoTts \
     SettingsProvider \
     SharedStorageBackup \
